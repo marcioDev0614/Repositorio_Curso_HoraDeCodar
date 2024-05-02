@@ -643,3 +643,4 @@ document.querySelector('#meuLink').addEventListener('click', function (event){
     console.log('Clicou no link')
 })
 
+// Linha adicionada
