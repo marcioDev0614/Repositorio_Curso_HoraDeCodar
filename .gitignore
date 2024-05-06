@@ -1,1 +1,104 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos de dependência
+packages/
+
+# Arquivos temporários
+[Tt]emp/
+[Oo]bj/
+
+# Arquivos de log e cache
+*.log
+*.vspscc
+*.vssscc
+*.cache
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.ide
+
+# Arquivos de backup
+[Bb]ackup/
+*_backup.*
+*~.nib
+*.swp
+~*
+
+# Arquivos de configuração
+*.dll.config
+*.exe.config
+
+# Arquivos de IDE
+.vscode/
+*.sln.cache
+*.suo
+*.user
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Arquivos de compilação do Visual Studio
+_ReSharper*/
+*.sln.ide
+*.suo
+*.suo
+*.swp
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.ncb
+*.log
+*.pdb
+*.pgc
+*.pgd
+*.aps
+*.vcproj
+*.vcproj.*
+
+# Cache do Rider
+.idea/
+*.sln.iml
+*.iml
+
+# Ferramentas de teste
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Ferramentas de desenvolvimento
+_ReSharper*/
+*.resharper
+*.DotSettings
+
+# Ferramentas de profiling
+*.sw?
+
+# Ferramentas de versionamento
+ProjectSettings/ProjectVersion.txt
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.pfx
+*.snk
+
+# Razor precompilation
+*.deploy.cmd
+*.generated.cs
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# arquivos locais
 d.txt
