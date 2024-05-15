@@ -1,3 +1,4 @@
 linha 1 de texto
 Inserindo linha para o merge
 Enviando a funcionalidade X
+Enviando a funcionalidade B
